@@ -1,0 +1,9 @@
+@article{REPO106,
+    author = "Zheng, Kaizhong and Yu, Shujian and Li, Baojuan and Jenssen, Robert and Chen, Badong",
+    journal = "IEEE Transactions on Neural Networks and Learning Systems",
+    number = "",
+    pages = "1-14",
+    title = "{BrainIB: Interpretable Brain Network-Based Psychiatric Diagnosis With Graph Information Bottleneck}",
+    volume = "",
+    year = "2024"
+}
